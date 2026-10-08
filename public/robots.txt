@@ -1,0 +1,5 @@
+# robots.txt for WonderQuest
+User-agent: *
+Allow: /
+
+Sitemap: https://wonderquestgame.com/sitemap.xml
